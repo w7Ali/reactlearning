@@ -1,0 +1,32 @@
+.todo-container {
+    background: black;
+    color: white;
+    text-align: center;
+
+}
+
+h1 {
+    font-weight: 700px;
+    font-size: 20px;
+    margin: 30px;
+}
+
+input{
+    width: 100%;
+}
+
+.items-container {
+    text-align: left;
+}
+
+.kg-row {
+    margin: 10px 5px;
+}
+
+.kg-button {
+   min-width: 100px;
+}
+
+#add-to-do {
+    padding-left: 20px;
+}
